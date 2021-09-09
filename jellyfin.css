@@ -1,4 +1,5 @@
-@import url("https://ctalvio.github.io/Monochromic/default_style.css");
+/*@import url("https://ctalvio.github.io/Monochromic/default_style.css");*/
+@import url('https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/presets/monochromic_preset.css');
 body, h1, h2, h3 { font-family:  "Sailec"; font-weight: 400; }
 h1, h2, h3 { font-weight: 600; }
 .pageTitleWithDefaultLogo { background-image: none; font-size: 1.17em; font-weight: 600; }
